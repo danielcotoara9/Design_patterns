@@ -1,2 +1,2 @@
-# Design_patterns
+# Design Patterns
 Design Patterns in action
